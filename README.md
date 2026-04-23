@@ -1,0 +1,2 @@
+# Dise-o-dimensionamiento-y-validaci-n-de-una-red-m-vil-moderna-para-la-mega-ciudad-de-Nueva-Pangea
+1. Presentación del reto En este reto os convertiréis en un equipo de consultoría especializado en redes móviles avanzadas. Vuestra misión consistirá en diseñar y justificar una propuesta de despliegue radio para la ciudad inteligente de Nueva Pangea, teniendo en cuenta dos escenarios radicalmente distintos.
